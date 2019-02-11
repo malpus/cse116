@@ -26,3 +26,4 @@ object Activity2 extends JFXApp {
     }
   }
 }
+//here is a new commit Max Paikin
