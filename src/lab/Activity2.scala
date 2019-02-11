@@ -15,6 +15,7 @@ object Activity2 extends JFXApp {
     scene = new Scene {
       content = new HBox {
         padding = Insets(10)
+        //here is a comment
         children = Seq(
           new Text {
             text = "I completed Lab Activity 2 - Part 1"
