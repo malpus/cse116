@@ -28,3 +28,4 @@ object Activity2 extends JFXApp {
 }
 //here is a new commit Max Paikin
 // another new commit Evan Maestri
+//I added a comment Tyler Kraus
